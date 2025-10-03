@@ -119,16 +119,16 @@ This averages all captions uniformly instead of weighting by similarity scores a
 
 ## Reproduced Baselines
 
-The `reproduced_works/` folder contains implementations of baseline methods:
+The `submodules/` folder contains implementations of baseline methods:
 
 ### CoRE (Combination of Retrieval Enrichment)
 ```bash
-cd reproduced_works/core
+cd submodules/core
 ```
 
 ### WDYS (What Do You See?)
 ```bash
-cd reproduced_works/wdys
+cd submodules/wdys
 ```
 
 ## Utilities
